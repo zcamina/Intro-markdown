@@ -37,6 +37,16 @@ List of order clothes:
 
 [Turorial Markdown](https://www.youtube.com/watch?v=oxaH9CFpeEE&ab_channel=FaztCode)
 
+##Why Use Markdown?
+
+You might be wondering why people use Markdown instead of a WYSIWYG editor. Why write with Markdown when you can press buttons in an interface to format your text? As it turns out, there are several reasons why people use Markdown instead of WYSIWYG editors.
+
+1.  Universal application
+2.  File Portability
+3.  Alternative documentation software 
+4.  Free to use
+
+
 ## Different programming languages
 
 ```
@@ -46,10 +56,6 @@ System.out.println("Hello World!");
 for (int i; i < 4; i++){
     System.out.println("Hello World!");
 }
-```
-```Python
-for i in range(3):
-    print("Hello World!");
 ```
 ```html
 <h3>Hello World</h3>
@@ -69,10 +75,10 @@ TODO:
 
 [x] contact form done
 
-[] CSS intro done
+[x] CSS intro done
 
-[] CSS
+[x] CSS
 
 [x] JavaScript done
 
-[] Java intro
+[x] Java intro
