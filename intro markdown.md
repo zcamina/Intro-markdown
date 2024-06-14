@@ -12,6 +12,16 @@ List of fruit:
 * orange
 * banana
 
+List with +:
++ apple 
++ orange
++ banana
+
+List with -:
+- apple 
+- orange
+- banana
+
 <!--Order list-->
 List of order clothes:
 1. T-shirt
